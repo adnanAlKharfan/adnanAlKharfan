@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a passionate software developer with a focus on mobile and web applications. I enjoy creating innovative solutions and contributing to open-source projects.
+I am a passionate software developer and AI Engineer with a focus on mobile and web applications.
 
 - 🔭 I’m currently working in [iono technology](https://www.iono-tech.com).
 - 🌱 I’m currently learning Spring Boot.
