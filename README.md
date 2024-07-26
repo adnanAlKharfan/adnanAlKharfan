@@ -15,12 +15,20 @@ I am a passionate software developer with a focus on mobile and web applications
 
 - **Languages:** 
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
+  ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=C-Sharp&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=TypeScript&logoColor=white)
+  ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=Swift&logoColor=white)
+  ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=Dart&logoColor=white)
+  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white)
 
 - **Frameworks and Libraries:** 
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=Spring-Boot&logoColor=white)
+  ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dot-net&logoColor=white)
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=Flutter&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=Laravel&logoColor=white)
 
 - **Tools and Platforms:** 
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
